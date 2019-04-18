@@ -1,5 +1,4 @@
-
-peline {
+pipeline {
   agent {
     docker {
       image 'node:10-alpine'
